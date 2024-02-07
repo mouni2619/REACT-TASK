@@ -1,4 +1,7 @@
-hello world
+Welcome to our React Price Card Dashboard project! This React application is designed to offer users a clear and concise overview of various subscription plans along with their associated features and pricing options
+
+LIVE APP DEMO:https://65c33108c67b7d4afe98944f--incandescent-churros-4c1860.netlify.app/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
